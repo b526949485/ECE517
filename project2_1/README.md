@@ -16,8 +16,8 @@ http://ec2-18-188-159-107.us-east-2.compute.amazonaws.com:3003/
 * Rails version: 5.2.2
 * Sqlite3 1.3.6
 
-#### Admin Account 
-
+#### Admin Account
+##### Don's Destroy Admin Acount!!! 
     Name:       GodOfWeb
 
     Email:      god@admin.com
@@ -43,10 +43,10 @@ http://ec2-18-188-159-107.us-east-2.compute.amazonaws.com:3003/
 ### User Guide
 There are three (3) types of users in the system:
 * Admin
-* Agents
-* Customers
+* Agent
+* Customer
 
-#### Admin
+##### Admin
 * This account type could not be created or deleted.
 * Login 
     * Name: GodOfWeb
