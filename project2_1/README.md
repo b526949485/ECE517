@@ -47,6 +47,7 @@ There are three (3) types of users in the system:
 * Customers
 
 #### Admin
+* This account type could not be created or deleted.
 * Login 
     * Name: GodOfWeb
     * Email: god@admin.com
